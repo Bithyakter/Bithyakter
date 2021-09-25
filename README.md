@@ -17,4 +17,3 @@ Skills: C# / ASP.NET CORE / ASP.NET MVC / Angular / API / SQL Server
 
 ![Profile views](https://gpvc.arturio.dev/bithyakter)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
