@@ -33,6 +33,7 @@ Skills: C# / ASP.NET CORE / ASP.NET MVC / Angular / API / SQL Server
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bithyakter)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bithyakter&show_icons=true&locale=en" alt="bithyakter" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bithyakter&show_icons=true&locale=en&layout=compact" alt="bithyakter" /></p>
 
 
