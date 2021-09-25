@@ -3,7 +3,7 @@
   I ❤ connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 :)
   <hr>
 
-  - 🌱I’m currently focus on C#, ASP.NET Core, MVC Web Application
+  - 🌱I’m currently focus on C#, ASP.NET Core, MVC Web Application        https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966
   - 👯 I’m looking to collaborate on as many projects as I can. 
   - 🏆 Goals: Contribute more to Open Source Projects.
 
