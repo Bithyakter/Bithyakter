@@ -2,13 +2,13 @@
 #### I am passionate about Programming & I enjoy learning new things.
 I ❤ connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 :)
 <hr>
-Skills: C# / ASP.NET CORE / ASP.NET MVC / Angular / API / SQL Server
+  Skills: C# / ASP.NET CORE / ASP.NET MVC / Angular / API / SQL Server
 
-- 🔭 I’m currently working on C#, ASP.NET Core, MVC, Angular 
-- 🌱 I’m currently learning Full Stack Development 
-- 👯 I’m looking to collaborate on as many projects as I can. 
-- 🤔 I’m looking for help with Teamwork. 
-- 💬 Ask me about anything here! I am happy to help. 
+  - 🔭 I’m currently working on C#, ASP.NET Core, MVC, Angular 
+  - 🌱 I’m currently learning Full Stack Development 
+  - 👯 I’m looking to collaborate on as many projects as I can. 
+  - 🤔 I’m looking for help with Teamwork. 
+  - 💬 Ask me about anything here! I am happy to help. 
 
 ![Profile views](https://gpvc.arturio.dev/bithyakter)  
 
