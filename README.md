@@ -7,13 +7,14 @@
   - 👯 I’m looking to collaborate on as many projects as I can. 
 
   ### ✍ Skills:<hr>
-    ✅ C# <br>
-    ✅ ASP.NET MVC / CORE / API <br>
-    ✅ Angular <br>
-    ✅ SQL Server <br>
-    ✅ JavaScript <br>
-    ✅ Ajax <br>
-    ✅ HTML/CSS/Bootstrap <br><br>
+    ✅ C# 
+    ✅ ASP.NET MVC / CORE 
+    ✅ Web API 
+    ✅ Angular 
+    ✅ SQL Server 
+    ✅ JavaScript
+    ✅ Ajax 
+    ✅ HTML/CSS/Bootstrap 
 
 
   ![Profile views](https://gpvc.arturio.dev/bithyakter)  
