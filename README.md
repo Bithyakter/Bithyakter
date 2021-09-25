@@ -17,3 +17,4 @@ Skills: C# / ASP.NET CORE / ASP.NET MVC / Angular / API / SQL Server
 
 ![Profile views](https://gpvc.arturio.dev/bithyakter)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bithyakter)](https://github.com/Bithyakter/github-readme-stats)
