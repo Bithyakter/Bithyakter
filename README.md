@@ -14,7 +14,7 @@
   ✅ SQL Server <br>
   ✅ JavaScript <br>
   ✅ Ajax <br>
-  ✅ HTML/CSS/Bootstrap <br>
+  ✅ HTML/CSS/Bootstrap <br><br><br>
 
 
   ![Profile views](https://gpvc.arturio.dev/bithyakter)  
@@ -31,7 +31,7 @@
   <a href="https://fb.com/mstbithy93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mstbithy93" height="30" width="40" /></a>
   <a href="https://instagram.com/bithy_queen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bithy_queen" height="30" width="40" /></a>
   </p>
-
+<br>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bithyakter&show_icons=true&locale=en&layout=compact" alt="bithyakter" /></p>
 
