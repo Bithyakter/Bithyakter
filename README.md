@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bithy</h1>
 <h3 align="center">I am passionate about Programming & I enjoy learning new things.</h3>
 
-- 🔭 I’m currently working on **C#, ASP.NET MVC, Core, Angular**
+- 🔭 I’m currently working on **C#, ASP.NET Core, MVC, Angular**
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
