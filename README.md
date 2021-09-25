@@ -5,6 +5,7 @@
 
   - 🌱I’m currently focus on C#, ASP.NET Core, MVC Web Application
   - 👯 I’m looking to collaborate on as many projects as I can. 
+  - 🏆 Goals: Contribute more to Open Source Projects.
 
   ### ✍ Skills:<hr>
     ✅ C# 
