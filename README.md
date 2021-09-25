@@ -16,7 +16,7 @@ I ❤ connecting with different people so if you want to say hi, I'll be happy t
   ✅ Ajax
   ✅ HTML/CSS/Bootstrap
 
-<br>
+
 ![Profile views](https://gpvc.arturio.dev/bithyakter)  
 
 <br>
