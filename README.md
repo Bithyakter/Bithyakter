@@ -3,17 +3,6 @@
   I ❤ connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 :)
   <hr>
 
-  ### ✍ Skills:<hr>
-    ✅ C# 
-    ✅ ASP.NET CORE 
-    ✅ Web API 
-    ✅ Blazor 
-    ✅ SQL Server 
-    ✅ JavaScript
-    ✅ Ajax 
-    ✅ HTML/CSS/Bootstrap 
-
-
   ![Profile views](https://gpvc.arturio.dev/bithyakter)  
 
   
